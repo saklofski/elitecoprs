@@ -1,0 +1,100 @@
+/* upper bar */
+@media(max-width:576px) {
+    .upper-bar .info:first-child {
+        margin-bottom:0 ;
+    }
+}
+
+@media(max-width:576px) {
+    .upper-bar .get-quote {
+        border: none;
+        margin-left: 5px;
+    }
+}
+/* upper bar */
+
+/* slider */
+
+@media(max-width:768px) {
+    .slider .carousel-inner h1{
+        font-size: 40px;
+        max-width: 100%;
+        left: auto;
+        text-align: center;
+    }
+} 
+
+@media(max-width:992px) {
+    .slider .carousel-inner h1{
+        font-size: 50px;
+    }
+}
+
+/* Slider */
+
+/* Start Overview  */
+
+@media(max-width:992px) {
+    .overview p{
+        width: 100%;
+    }
+}
+
+@media(max-width:992px) {
+    .overview .h1{
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+}
+
+/* Start Overview  */
+
+/* Start pricing */
+
+@media(max-width:992px) {
+    .pricing-table .section-description{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .pricing-table .card.corporate {
+        top:0px;
+        position: relative;
+    }
+}
+
+/* End pricing */
+
+/* contact us */
+
+@media(max-width:768px) {
+    .contact-us p {
+        margin-bottom: 30px;
+    }
+} 
+
+/* contact us */
+
+/* footer */
+
+@media(max-width:992px) {
+    .footer .helpful-links h2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width:992px) {
+    .footer .contact h2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width:992px) {
+    .footer .contact ul li {
+        margin-bottom: 5px;
+    }
+}
+
+/* footer */
